@@ -7,8 +7,6 @@
 .home-card {
   display: flex;
   flex-direction: column-reverse;
-  background-color: #fff;
-  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
   border-radius: 20px;
 }
 
@@ -39,6 +37,10 @@
 .home-image-container svg {
   width: 100%;
   height: auto;
+}
+
+.link-button-products {
+  width: 100%;
 }
 
 @media (min-width: 576px) {
